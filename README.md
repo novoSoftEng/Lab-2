@@ -6,10 +6,10 @@ The main aim of this lab was to gain proficiency in Rule-Based Natural Language 
 **Work Done:**
 
 **Part 1: Rule-Based NLP and Regex:**
-In this section of the lab, we focused on implementing a Python program using Regex to generate a bill from a given text input provided by the user. The objective was to extract relevant information such as product names, quantities, and prices from the input text using Regex patterns.
+In this section of the lab, I focused on implementing a Python program using Regex to generate a bill from a given text input provided by the user. The objective was to extract relevant information such as product names, quantities, and prices from the input text using Regex patterns.
 
 **Use Case:**
-For the practical exercise, we were given a sample text input: "I bought three Samsung smartphones 150 $ each, four kilos of fresh banana for 1,2 dollar a kilogram, and one Hamburger with 4,5 dollar." Our task was to develop a Python script that could parse this text and generate a bill with the following details:
+For the practical exercise, we were given a sample text input: "I bought three Samsung smartphones 150 $ each, four kilos of fresh banana for 1,2 dollar a kilogram, and one Hamburger with 4,5 dollar." the task was to develop a Python script that could parse this text and generate a bill with the following details:
 
 **Generated Bill:**
 - Product             Quantity    UnitPrice    TotalPrice
@@ -62,6 +62,6 @@ For the practical exercise, we were given a sample text input: "I bought three S
     - Different encoding/vectorization techniques and word embedding models result in distinct clustering patterns.
 
 **Conclusion:**
-The lab provided valuable hands-on experience in applying Rule-Based NLP techniques and Regex for information extraction tasks. By completing this exercise, we gained a deeper understanding of how to leverage Regex patterns to parse and extract structured data from unstructured text, a skill that is essential in many NLP applications, not only that  . Overall, the lab successfully achieved its objective of familiarizing us with Rule-Based NLP and Regex concepts in a practical context.
+The lab provided valuable hands-on experience in applying Rule-Based NLP techniques and Regex for information extraction tasks. By completing this exercise, I gained a deeper understanding of how to leverage Regex patterns to parse and extract structured data from unstructured text, a skill that is essential in many NLP applications, not only that  . Overall, the lab successfully achieved its objective of familiarizing us with Rule-Based NLP and Regex concepts in a practical context.
 
 **Skills Learned:**: RegEx , Word Embedding , Skip Gram , One Hot Encoding , Word2Vec , TF-IDF  , FastText , ... etc.
