@@ -62,6 +62,5 @@ For the practical exercise, we were given a sample text input: "I bought three S
     - Different encoding/vectorization techniques and word embedding models result in distinct clustering patterns.
 
 **Conclusion:**
-The lab provided valuable hands-on experience in applying Rule-Based NLP techniques and Regex for information extraction tasks. By completing this exercise, I gained a deeper understanding of how to leverage Regex patterns to parse and extract structured data from unstructured text, a skill that is essential in many NLP applications, not only that  . Overall, the lab successfully achieved its objective of familiarizing us with Rule-Based NLP and Regex concepts in a practical context.
-
+This lab provided invaluable hands-on experience in applying Rule-Based NLP techniques and Regex for information extraction tasks. Through this exercise, I gained practical insights into leveraging Regex patterns to parse and extract structured data from unstructured text, a skill essential in various NLP applications. Furthermore, exploring word embedding techniques enhanced my understanding of vectorizing textual data for downstream NLP tasks.
 **Skills Learned:**: RegEx , Word Embedding , Skip Gram , One Hot Encoding , Word2Vec , TF-IDF  , FastText , ... etc.
